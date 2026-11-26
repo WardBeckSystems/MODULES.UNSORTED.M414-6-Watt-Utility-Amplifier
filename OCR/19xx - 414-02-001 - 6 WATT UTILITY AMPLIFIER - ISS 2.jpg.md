@@ -34,7 +34,7 @@ Wide amplifier schematic strip with title block at bottom right.
 - **Words (OCR):** 19 in 19 lines: 742io? · For · 40 · 0+76141 · STLTED · capacmcr · Liat · 0076 · Ga · 31 JB · 37dB · Te (=
 - **Wiring (first pass):** 112 connected wire groups from 762 runs; labelled ends: 433 mm → 18885; 82 mm → 18885; 82 mm → 40, 0+76141; 48 mm → USTEMS, 414; 34 mm → 40
 
-Every curve, box, word and wire group: [19xx - 414-02-001 - 6 WATT UTILITY AMPLIFIER - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20414-02-001%20-%206%20WATT%20UTILITY%20AMPLIFIER%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 414-02-001 - 6 WATT UTILITY AMPLIFIER - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 414-02-001 - 6 WATT UTILITY AMPLIFIER - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%20414-02-001%20-%206%20WATT%20UTILITY%20AMPLIFIER%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 414-02-001 - 6 WATT UTILITY AMPLIFIER - ISS 2 (traced).dxf`).
 
 ## Full text
 

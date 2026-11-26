@@ -34,7 +34,7 @@ Mechanical drawing of an M414 component chassis, title block at bottom right.
 - **Words (OCR):** 47 in 34 lines: 1L · 10 . 625 · 312 · Icv · 51 · 6 4 · 1.06 2 · 437 · 2522 · 2.125 · 2 . 015 · 4.031
 - **Title block:** (180, 29)–(374, 61) mm: FINISH · Ward · BECK SUSTEMS · DRN · D P. s · cLEAR ALoPiNE · DATE /3.OCT: /970 · M 414 · COMPONENT CHASSIS
 
-Every curve, box, word and wire group: [1970 - 414-03-004 - COMPONENT CHASSIS - ISS 1 (traced).json](../MECHANICAL/1970%20-%20414-03-004%20-%20COMPONENT%20CHASSIS%20-%20ISS%201%20(traced).json) (the CAD file: `1970 - 414-03-004 - COMPONENT CHASSIS - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 414-03-004 - COMPONENT CHASSIS - ISS 1 (traced).json](../MECHANICAL/1970%20-%20414-03-004%20-%20COMPONENT%20CHASSIS%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1970 - 414-03-004 - COMPONENT CHASSIS - ISS 1 (traced).dxf`).
 
 ## Full text
 
