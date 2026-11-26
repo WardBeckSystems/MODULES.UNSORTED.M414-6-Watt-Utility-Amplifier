@@ -1,0 +1,96 @@
+{
+ "drawing": "Modules/UNSORTED/M414/MECHANICAL/1970 - 414-03-005 - BRACKET - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/6dfcdaee8aaa1efd.svg",
+ "sheet": {
+  "number": "B 414-03-005",
+  "title": "BRACKET",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.4, 431.4, 298.4],
+ "outlines": {
+  "line": {"rings": 267, "straight": {"n": 5103, "mm": 9436.5}, "curved": {"n": 655, "mm": 855.4}},
+  "text": {"rings": 203, "straight": {"n": 1648, "mm": 2022.3}, "curved": {"n": 417, "mm": 672.3}},
+  "tb": {"rings": 14, "straight": {"n": 134, "mm": 162.1}, "curved": {"n": 20, "mm": 33.5}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 4216, "straight": {"n": 4371, "mm": 4962.7}, "curved": {"n": 35, "mm": 40.8}},
+   "text": {"paths": 2239, "straight": {"n": 2751, "mm": 1929.4}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 168, "straight": {"n": 193, "mm": 563.0}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 46,
+  "orientation": {"horizontal": {"n": 2028, "mm": 3800.2}, "vertical": {"n": 1788, "mm": 1598.4}, "diagonal": {"n": 3499, "mm": 2056.6}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [166.5, 184.7], "r": 2.2, "kind": "arc", "span": 176, "from": ["centre line"], "start": 231},
+  {"c": [198.6, 29.3], "r": 1.5, "kind": "arc", "span": 211, "from": ["centre line"], "start": 114},
+  {"c": [190.8, 29.0], "r": 1.4, "kind": "circle", "span": 278, "from": ["centre line"]},
+  {"c": [255.9, 12.7], "r": 1.4, "kind": "arc", "span": 199, "from": ["centre line"], "start": 123},
+  {"c": [228.0, 12.2], "r": 1.4, "kind": "arc", "span": 158, "from": ["centre line"], "start": 24},
+  {"c": [58.8, 159.9], "r": 1.3, "kind": "arc", "span": 131, "from": ["centre line"], "start": 66},
+  {"c": [240.3, 12.4], "r": 1.2, "kind": "arc", "span": 211, "from": ["centre line"], "start": 335},
+  {"c": [290.3, 129.2], "r": 1.2, "kind": "arc", "span": 191, "from": ["centre line"], "start": 152},
+  {"c": [231.5, 12.1], "r": 0.9, "kind": "arc", "span": 195, "from": ["centre line"], "start": 347}
+ ],
+ "boxes": [
+  {"mm": [90.9, 210.3, 247.9, 227.0], "w": 157.0, "h": 16.7, "from": "ring"},
+  {"mm": [90.5, 119.9, 247.2, 139.5], "w": 156.7, "h": 19.6, "from": "ring"},
+  {"mm": [188.2, 43.4, 201.2, 52.5], "w": 13.0, "h": 9.1, "from": "ring", "words": ["dRN"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [169.3, 254.3, 185.9, 258.6], "text": "500"},
+   {"mm": [190.0, 240.9, 211.2, 247.4], "text": "2.750"},
+   {"mm": [188.0, 158.3, 203.2, 162.6], "text": "Ooo"},
+   {"mm": [272.2, 153.3, 278.3, 158.1], "text": "I6"},
+   {"mm": [9.9, 57.4, 35.4, 63.9], "text": "NPTES"},
+   {"mm": [18.1, 50.5, 47.7, 57.0], "text": "5 HoLEs"},
+   {"mm": [65.6, 50.7, 75.8, 56.3], "text": "40"},
+   {"mm": [77.7, 49.9, 125.7, 56.3], "text": "UNC THPEAD"},
+   {"mm": [240.5, 47.5, 256.1, 53.0], "text": "FIRISH"},
+   {"mm": [320.8, 43.2, 341.3, 52.8], "text": "WARD"},
+   {"mm": [346.7, 43.2, 414.3, 53.5], "text": "BECK SYSTEMS Lid:"},
+   {"mm": [189.1, 44.9, 199.5, 50.4], "text": "dRN"},
+   {"mm": [17.7, 39.1, 45.8, 45.6], "text": "REMOVE"},
+   {"mm": [53.5, 39.7, 96.1, 46.7], "text": "ALL Burr s"},
+   {"mm": [113.3, 39.1, 168.4, 45.6], "text": "SHARP EDGES"},
+   {"mm": [244.0, 40.2, 265.6, 46.6], "text": "CLEAR"},
+   {"mm": [271.0, 39.7, 303.3, 46.7], "text": "ALODINE"},
+   {"mm": [188.3, 35.4, 237.9, 41.9], "text": "daTE 13. Oct. 1970"},
+   {"mm": [240.5, 29.1, 262.5, 34.7], "text": "RATERIAL"},
+   {"mm": [348.5, 26.1, 385.4, 34.0], "text": "BRACKET"},
+   {"mm": [241.4, 21.4, 310.9, 29.1], "text": "2/4 X?/4 xl8 AL; ALLoy"},
+   {"mm": [188.0, 16.6, 201.0, 22.1], "text": "SCAE"},
+   {"mm": [278.7, 16.6, 302.0, 22.1], "text": "ANGLe"},
+   {"mm": [282.0, 10.4, 315.4, 15.9], "text": "ven ANGLES"},
+   {"mm": [336.8, 7.3, 411.5, 14.3], "text": "414 - 0 3 00 5 (SS"}
+  ]
+ },
+ "title_block": {
+  "mm": [179.7, 29.2, 405.6, 59.6],
+  "from": "title-block words (training set)",
+  "text": ["FIRISH", "WARD", "BECK SYSTEMS Lid:", "dRN", "CLEAR", "ALODINE", "daTE 13. Oct. 1970", "RATERIAL", "BRACKET"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 414-03-005, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–431 mm across, 10–298 mm up",
+  "- **Outlines:** line 267 rings, 5,103 straight (9,436 mm) / 655 curved (855 mm); text 203 rings, 1,648 straight (2,022 mm) / 417 curved (672 mm); tb 14 rings, 134 straight (162 mm) / 20 curved (33.5 mm)",
+  "- **Centre lines:** 6,623 paths (46 closed); straight 7,455 mm, curved 40.8 mm; horizontal 3,800 mm, vertical 1,598 mm, diagonal 2,057 mm",
+  "- **Circles and arcs:** 1 circles, 8 arcs; largest r 1.4 @ (190.8, 29.0)",
+  "- **Closed boxes:** 3 (1 in the title block)",
+  "- **Words (OCR):** 34 in 25 lines: 500 · 2.750 · Ooo · I6 · NPTES · 5 HoLEs · 40 · UNC THPEAD · FIRISH · WARD · BECK SYSTEMS Lid: · dRN",
+  "- **Title block:** (180, 29)–(406, 60) mm: FIRISH · WARD · BECK SYSTEMS Lid: · dRN · CLEAR · ALODINE · daTE 13. Oct. 1970 · RATERIAL · BRACKET"
+ ]
+}

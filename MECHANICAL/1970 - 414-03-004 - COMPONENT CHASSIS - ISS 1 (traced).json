@@ -1,0 +1,117 @@
+{
+ "drawing": "Modules/UNSORTED/M414/MECHANICAL/1970 - 414-03-004 - COMPONENT CHASSIS - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/ea51d60a70dbc4bb.svg",
+ "sheet": {
+  "number": "B 414-03-004",
+  "title": "M414 / COMPONENT CHASSIS",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 9.3, 431.9, 299.2],
+ "outlines": {
+  "line": {"rings": 742, "straight": {"n": 8129, "mm": 14353.6}, "curved": {"n": 1124, "mm": 1537.9}},
+  "text": {"rings": 347, "straight": {"n": 2636, "mm": 3186.9}, "curved": {"n": 706, "mm": 1135.0}},
+  "tb": {"rings": 26, "straight": {"n": 464, "mm": 416.0}, "curved": {"n": 71, "mm": 86.3}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 6176, "straight": {"n": 6503, "mm": 7945.1}, "curved": {"n": 96, "mm": 136.1}},
+   "text": {"paths": 2150, "straight": {"n": 2900, "mm": 2438.8}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 695, "straight": {"n": 726, "mm": 521.1}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 89,
+  "orientation": {"horizontal": {"n": 2937, "mm": 5403.2}, "vertical": {"n": 2519, "mm": 2401.5}, "diagonal": {"n": 4673, "mm": 3100.3}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [203.9, 152.0], "r": 5.8, "kind": "arc", "span": 237, "from": ["centre line"], "start": 272},
+  {"c": [203.7, 139.4], "r": 5.3, "kind": "arc", "span": 192, "from": ["centre line"], "start": 186},
+  {"c": [205.0, 138.3], "r": 5.3, "kind": "arc", "span": 97, "from": ["centre line"], "start": 1},
+  {"c": [258.5, 132.2], "r": 3.2, "kind": "arc", "span": 187, "from": ["centre line"], "start": 2},
+  {"c": [258.4, 158.1], "r": 3.1, "kind": "arc", "span": 183, "from": ["centre line"], "start": 3},
+  {"c": [230.8, 145.3], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [200.8, 101.9], "r": 2.4, "kind": "arc", "span": 90, "from": ["centre line"], "start": 315},
+  {"c": [230.9, 145.7], "r": 2.4, "kind": "arc", "span": 207, "from": ["centre line"], "start": 93},
+  {"c": [286.4, 145.8], "r": 2.3, "kind": "arc", "span": 112, "from": ["centre line"], "start": 99},
+  {"c": [231.1, 144.8], "r": 2.1, "kind": "arc", "span": 98, "from": ["centre line"], "start": 1},
+  {"c": [286.6, 144.8], "r": 2.1, "kind": "arc", "span": 99, "from": ["centre line"], "start": 1},
+  {"c": [138.3, 216.1], "r": 2.1, "kind": "arc", "span": 165, "from": ["centre line"], "start": 48},
+  {"c": [193.5, 19.8], "r": 1.6, "kind": "arc", "span": 126, "from": ["centre line"], "start": 320},
+  {"c": [200.9, 100.8], "r": 1.5, "kind": "arc", "span": 119, "from": ["centre line"], "start": 145},
+  {"c": [216.2, 145.7], "r": 1.4, "kind": "arc", "span": 118, "from": ["centre line"], "start": 104},
+  {"c": [191.5, 29.3], "r": 1.4, "kind": "arc", "span": 206, "from": ["centre line"], "start": 322},
+  {"c": [274.8, 13.8], "r": 1.3, "kind": "arc", "span": 163, "from": ["centre line"], "start": 181},
+  {"c": [241.3, 13.2], "r": 1.3, "kind": "circle", "span": 305, "from": ["centre line"]},
+  {"c": [266.0, 13.2], "r": 1.3, "kind": "arc", "span": 147, "from": ["centre line"], "start": 299},
+  {"c": [284.0, 13.3], "r": 1.0, "kind": "arc", "span": 169, "from": ["centre line"], "start": 44},
+  {"c": [188.4, 142.1], "r": 0.8, "kind": "arc", "span": 196, "from": ["centre line"], "start": 196},
+  {"c": [426.4, 10.7], "r": 0.7, "kind": "arc", "span": 156, "from": ["centre line"], "start": 347}
+ ],
+ "boxes": [
+  {"mm": [101.5, 140.8, 150.5, 150.3], "w": 49.0, "h": 9.6, "from": "ring"},
+  {"mm": [52.0, 140.8, 101.3, 150.3], "w": 49.3, "h": 9.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 47,
+  "lines": [
+   {"mm": [151.1, 267.5, 167.3, 274.5], "text": "1L"},
+   {"mm": [143.6, 259.3, 171.6, 265.8], "text": "10 . 625"},
+   {"mm": [88.5, 249.8, 101.0, 256.8], "text": "312"},
+   {"mm": [331.6, 227.8, 338.1, 232.6], "text": "Icv"},
+   {"mm": [72.1, 115.5, 79.0, 121.0], "text": "51"},
+   {"mm": [71.5, 109.9, 81.2, 115.7], "text": "6 4"},
+   {"mm": [234.9, 109.9, 252.2, 116.4], "text": "1.06 2"},
+   {"mm": [169.5, 104.9, 180.9, 111.4], "text": "437"},
+   {"mm": [95.9, 96.7, 115.5, 108.7], "text": "2522"},
+   {"mm": [242.0, 98.0, 264.9, 105.9], "text": "2.125"},
+   {"mm": [58.3, 87.7, 81.0, 94.6], "text": "2 . 015"},
+   {"mm": [91.8, 77.5, 116.2, 84.0], "text": "4.031"},
+   {"mm": [28.9, 52.0, 81.2, 59.7], "text": "HoLes .125 DIA"},
+   {"mm": [240.9, 48.1, 257.1, 53.7], "text": "FINISH"},
+   {"mm": [321.5, 44.3, 342.0, 53.9], "text": "Ward"},
+   {"mm": [347.2, 44.3, 397.5, 55.1], "text": "BECK SUSTEMS"},
+   {"mm": [26.8, 46.0, 68.2, 51.5], "text": "HOLES ./25 DIA"},
+   {"mm": [70.8, 44.5, 167.3, 52.0], "text": "c'Sk 82\" To 250 DIA, (OPR SIDE)"},
+   {"mm": [189.8, 44.9, 200.6, 50.4], "text": "DRN"},
+   {"mm": [205.5, 44.0, 227.8, 50.5], "text": "D P. s"},
+   {"mm": [25.9, 38.0, 47.9, 44.5], "text": "HoLEs"},
+   {"mm": [60.9, 37.6, 116.2, 44.0], "text": "40 UNC THREAD,;"},
+   {"mm": [244.0, 40.2, 300.1, 46.6], "text": "cLEAR ALoPiNE"},
+   {"mm": [188.9, 34.8, 237.5, 41.7], "text": "DATE /3.OCT: /970"},
+   {"mm": [349.8, 35.8, 373.9, 42.3], "text": "M 414"},
+   {"mm": [25.5, 30.4, 82.3, 36.9], "text": "HoLes 187 DIA"},
+   {"mm": [322.8, 24.6, 417.6, 32.8], "text": "COMPONENT CHASSIS"},
+   {"mm": [24.8, 23.5, 45.3, 30.0], "text": "HoLEs"},
+   {"mm": [50.7, 23.5, 74.1, 30.5], "text": "V4 DIA"},
+   {"mm": [241.8, 20.3, 304.9, 28.5], "text": "12 GA (o8o) AL: ALLoy"},
+   {"mm": [50.7, 16.2, 80.1, 23.4], "text": "7/16 DIA"},
+   {"mm": [24.8, 16.0, 47.5, 22.5], "text": "HoLES"},
+   {"mm": [306.8, 11.2, 316.1, 16.7], "text": "Les"},
+   {"mm": [336.4, 8.4, 412.2, 15.4], "text": "414-03 00 4 Iss_"}
+  ]
+ },
+ "title_block": {
+  "mm": [180.3, 28.7, 373.8, 61.2],
+  "from": "title-block words (training set)",
+  "text": ["FINISH", "Ward", "BECK SUSTEMS", "DRN", "D P. s", "cLEAR ALoPiNE", "DATE /3.OCT: /970", "M 414", "COMPONENT CHASSIS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 414-03-004, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 9–299 mm up",
+  "- **Outlines:** line 742 rings, 8,129 straight (14,354 mm) / 1,124 curved (1,538 mm); text 347 rings, 2,636 straight (3,187 mm) / 706 curved (1,135 mm); tb 26 rings, 464 straight (416 mm) / 71 curved (86.3 mm)",
+  "- **Centre lines:** 9,021 paths (89 closed); straight 10,905 mm, curved 136 mm; horizontal 5,403 mm, vertical 2,402 mm, diagonal 3,100 mm",
+  "- **Circles and arcs:** 2 circles, 20 arcs; largest r 3.0 @ (230.8, 145.3), r 1.3 @ (241.3, 13.2)",
+  "- **Closed boxes:** 2",
+  "- **Words (OCR):** 47 in 34 lines: 1L · 10 . 625 · 312 · Icv · 51 · 6 4 · 1.06 2 · 437 · 2522 · 2.125 · 2 . 015 · 4.031",
+  "- **Title block:** (180, 29)–(374, 61) mm: FINISH · Ward · BECK SUSTEMS · DRN · D P. s · cLEAR ALoPiNE · DATE /3.OCT: /970 · M 414 · COMPONENT CHASSIS"
+ ]
+}
