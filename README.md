@@ -1,6 +1,6 @@
 # M414 6 Watt Utility Amplifier · Amplifiers
 
-Ward-Beck Systems M414, 1970|3. Wiki page: [M414 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M414.html)
+Ward-Beck Systems M414, 1970|3. Wiki page: [M414 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M414-6-Watt-Utility-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

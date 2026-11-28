@@ -1,5 +1,5 @@
 # 19xx - 414-02-001 - 6 WATT UTILITY AMPLIFIER - ISS 2.jpg
-Wiki page: [M414](../../../../PAGES/M414.md)
+Wiki page: [M414](../)
 
 
 - **Year:** unknown (title block (read by eye))

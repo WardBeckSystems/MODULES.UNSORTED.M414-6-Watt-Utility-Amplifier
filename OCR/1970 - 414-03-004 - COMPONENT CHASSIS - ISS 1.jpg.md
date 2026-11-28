@@ -1,5 +1,5 @@
 # 1970 - 414-03-004 - COMPONENT CHASSIS - ISS 1.jpg
-Wiki page: [M414](../../../../PAGES/M414.md)
+Wiki page: [M414](../)
 
 
 - **Year:** 1970 (title block date)
