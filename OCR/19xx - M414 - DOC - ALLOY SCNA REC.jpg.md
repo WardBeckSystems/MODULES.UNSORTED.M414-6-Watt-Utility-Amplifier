@@ -68,7 +68,7 @@ FiRISH WArD @ECK STSTES LTd DRN D P. S CLEAR ALoDiNE DATE /3.OCT: 1970 M 414 MAT
 
 ```json
 {
- "file": "Modules/UNSORTED/M414/MANUALS/19xx - M414 - DOC - ALLOY SCNA REC.jpg",
+ "file": "Modules/AMPLIFIERS/M414/MANUALS/19xx - M414 - DOC - ALLOY SCNA REC.jpg",
  "sha256": "917697f08b05a77d60de06bf3ed44df9ad3e1a7f427bb821a0cb131277052968",
  "kind": "doc",
  "models": [

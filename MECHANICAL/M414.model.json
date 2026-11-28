@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M414",
- "repo": "MODULES.UNSORTED.M414-6-Watt-Utility-Amplifier",
+ "repo": "MODULES.AMPLIFIERS.M414-6-Watt-Utility-Amplifier",
  "title": "6 Watt Utility Amplifier",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
